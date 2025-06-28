@@ -1,0 +1,30 @@
+[BIOS Image]
+D:\bios\小米游戏本2019款（解锁BIOS隐藏选项）\Xioami_GmaeBook2019_Bios(Unlock_BIOS).bin
+
+[Log]
+D:\windows库\下载\lnsider_Bl0S_TooIs\lnsider_Bl0S_TooIs\H20EZE (Easy BIOS Editor)\Windows\H2OEZE_x86_WINx64_100.00.03.11\InsydeH2OEZE_x86_WINx64_100.00.03.11\runtime\FstBiosImgInfoSimple.txt
+
+ FD   Size:          10240k (10485760 bytes)
+ FV00 Size:           4024k ( 4120576 bytes) 
+ FV00 Freespace:      1320k ( 1352160 bytes) 
+ FV01 Size:            352k (  360448 bytes) (NvStorage)
+ FV01 Freespace:       283k (  290416 bytes) (NvStorage)
+ FV02 Size:            212k (  217088 bytes) 
+ FV02 Freespace:        34k (   35232 bytes) 
+ FV03 Size:            640k (  655360 bytes) 
+ FV03 Freespace:       351k (  360352 bytes) 
+ FV04 Size:            384k (  393216 bytes) 
+ FV04 Freespace:       253k (  259744 bytes) 
+ FV05 Size:            832k (  851968 bytes) 
+ FV05 Freespace:       540k (  553776 bytes) 
+ FV06 Size:             24k (   24576 bytes) 
+ FV06 Freespace:         7k (    8032 bytes) 
+ FV07 Size:            544k (  557056 bytes) 
+ FV07 Freespace:       139k (  142816 bytes) 
+ FV08 Size:            256k (  262144 bytes) 
+ FV08 Freespace:       199k (  204048 bytes) 
+ Microcode Size:       640k (  655360 bytes) 
+ Compiler Version:  1600 (VC 10.0)
+ Bios Image Version:  XMGCF5R0P0504
+
+
