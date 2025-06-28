@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FlashFirmwarePage.qml</file>
+        <file>BackupConfigPage.qml</file>
+        <file>CardItem.qml</file>
+        <file>ExtractFirmwarePage.qml</file>
+    </qresource>
+</RCC> 

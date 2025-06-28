@@ -1,0 +1,2546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: H2OEZE\n"
+"POT-Creation-Date: 2017-11-06 11:16+0800\n"
+"PO-Revision-Date: 2017-11-06 11:18+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ../../src\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: common/MacroDef.h:197
+msgid "About"
+msgstr "關於"
+
+#: common/MacroDef.h:198
+msgid "Access denied!"
+msgstr "禁止存取!"
+
+#: common/MacroDef.h:199
+msgid "Add"
+msgstr "新增"
+
+#: common/MacroDef.h:200
+msgid "All"
+msgstr "全部"
+
+#: common/MacroDef.h:201
+msgid "already exists!"
+msgstr "已存在!"
+
+#: common/MacroDef.h:202
+msgid "Already started!"
+msgstr "已開始!"
+
+#: common/MacroDef.h:203
+msgid "Amount is zero!"
+msgstr "數目為零!"
+
+#: common/MacroDef.h:204
+msgid "Append the input microcode at the end."
+msgstr "將輸入的微指令附加到最後."
+
+#: common/MacroDef.h:205
+msgid "Apply"
+msgstr "套用"
+
+#: common/MacroDef.h:206
+msgid "Bad buffer size!"
+msgstr "錯誤的buffer大小!"
+
+#: common/MacroDef.h:207
+msgid "Binary ROM"
+msgstr "Binary ROM"
+
+#: common/MacroDef.h:209
+msgid "BIOS Image"
+msgstr "BIOS Image"
+
+#: common/MacroDef.h:210
+msgid "BIOS Image Information"
+msgstr "BIOS Image資訊"
+
+#: common/MacroDef.h:211 gui/H2oezeFrame.cpp:2219
+msgid "BIOS Image Detailed Information"
+msgstr "BIOS Image詳細資訊"
+
+#: common/MacroDef.h:212 gui/H2oezeFrame.cpp:2199
+msgid "1st BIOS Image Detailed Information"
+msgstr "第一個BIOS Image詳細資訊"
+
+#: common/MacroDef.h:213 gui/H2oezeFrame.cpp:2194
+msgid "1st BIOS Image Simple Information"
+msgstr "第一個BIOS Image簡易資訊"
+
+#: common/MacroDef.h:214 gui/H2oezeFrame.cpp:2214
+msgid "BIOS Image Simple Information"
+msgstr "BIOS Image簡易資訊"
+
+#: common/MacroDef.h:215 gui/H2oezeFrame.cpp:2209
+msgid "2nd BIOS Image Detailed Information"
+msgstr "第二個BIOS Image詳細資訊"
+
+#: common/MacroDef.h:216 gui/H2oezeFrame.cpp:2204
+msgid "2nd BIOS Image Simple Information"
+msgstr "第二個BIOS Image簡易資訊"
+
+#: common/MacroDef.h:217
+msgid "BIOS Version"
+msgstr "BIOS版本"
+
+#: common/MacroDef.h:218
+msgid "Browse"
+msgstr "瀏覽"
+
+#: common/MacroDef.h:219
+msgid "Buffer too small!"
+msgstr "Buffer太小!"
+
+#: common/MacroDef.h:220
+msgid "Cancel"
+msgstr "取消"
+
+#: common/MacroDef.h:221
+msgid "Canceled!"
+msgstr "取消!"
+
+#: common/MacroDef.h:222
+msgid "Cannot modify VSS FV!"
+msgstr "不能修改VSS FV!"
+
+#: common/MacroDef.h:223
+msgid "Check failed!"
+msgstr "檢查錯誤!"
+
+#: common/MacroDef.h:224
+msgid "Chinese (Traditional, Taiwan)"
+msgstr "繁體中文"
+
+#: common/MacroDef.h:225
+msgid "Choose file from..."
+msgstr "從...選擇檔案."
+
+#: common/MacroDef.h:226
+msgid "Choose from..."
+msgstr "選擇自..."
+
+#: common/MacroDef.h:227
+msgid "Choose 2nd BIOS Image From..."
+msgstr "選擇第2個BIOS Image自..."
+
+#: common/MacroDef.h:228
+msgid "Close"
+msgstr "關閉"
+
+#: common/MacroDef.h:229
+msgid "Closing..."
+msgstr "關閉中..."
+
+#: common/MacroDef.h:230
+msgid "Compare With 2nd BIOS Image"
+msgstr "與第2個BIOS Image比較"
+
+#: common/MacroDef.h:231
+msgid "Components"
+msgstr "元件"
+
+#: common/MacroDef.h:232
+msgid "Content already exist!"
+msgstr "內容已存在!"
+
+#: common/MacroDef.h:233
+msgid "Content is empty!"
+msgstr "內容為空!"
+
+#: common/MacroDef.h:234
+msgid "Continue"
+msgstr "繼續"
+
+#: common/MacroDef.h:235
+msgid "CRC error!"
+msgstr "CRC錯誤!"
+
+#: common/MacroDef.h:236
+msgid "Current BIOS Version"
+msgstr "目前BIOS版本"
+
+#: common/MacroDef.h:238
+msgid "Current DB"
+msgstr "目前DB"
+
+#: common/MacroDef.h:241
+msgid "Current ESRT GUID"
+msgstr "目前ESRT GUID"
+
+#: common/MacroDef.h:242
+msgid "Current ESRT Version"
+msgstr "目前ESRT版本"
+
+#: common/MacroDef.h:244
+msgid "Current Internal Logo"
+msgstr "目前內部Logo"
+
+#: common/MacroDef.h:245
+msgid "Current Microcode Detail"
+msgstr "目前微指令細節"
+
+#: common/MacroDef.h:246
+msgid "Current Product Name"
+msgstr "目前產品名稱"
+
+#: common/MacroDef.h:247
+msgid "Current Release Date"
+msgstr "目前釋出日期"
+
+#: common/MacroDef.h:248
+msgid "Delete"
+msgstr "刪除"
+
+#: common/MacroDef.h:249
+msgid "Delete module successfully"
+msgstr "刪除模組成功"
+
+#: common/MacroDef.h:250
+msgid "Delete the selected microcode."
+msgstr "刪除所選的微指令."
+
+#: common/MacroDef.h:252
+msgid "Delete db"
+msgstr "刪除db"
+
+#: common/MacroDef.h:253
+msgid "Delete dbx"
+msgstr "刪除dbx"
+
+#: common/MacroDef.h:254
+msgid "Delete KEK"
+msgstr "刪除KEK"
+
+#: common/MacroDef.h:255
+msgid "Delete PK"
+msgstr "刪除PK"
+
+#: common/MacroDef.h:256
+msgid "Delete Key"
+msgstr "刪除Key"
+
+#: common/MacroDef.h:257
+msgid "Delete db Key"
+msgstr "刪除db Key"
+
+#: common/MacroDef.h:258
+msgid "Delete dbx Key"
+msgstr "刪除dbx Key"
+
+#: common/MacroDef.h:259
+msgid "Delete KEK Key"
+msgstr "刪除KEK Key"
+
+#: common/MacroDef.h:260
+msgid "Delete PK Key"
+msgstr "刪除PK Key"
+
+#: common/MacroDef.h:262
+msgid "Diffs"
+msgstr "相異"
+
+#: common/MacroDef.h:263
+msgid "Directory doesn't exist!"
+msgstr "路徑不存在!"
+
+#: common/MacroDef.h:264
+msgid "Done"
+msgstr "完成"
+
+#: common/MacroDef.h:265
+msgid "Duplicate!"
+msgstr "重覆!"
+
+#: common/MacroDef.h:266
+msgid "Duplicate GUID!"
+msgstr "重覆的GUID!"
+
+#: common/MacroDef.h:267
+msgid "EDK"
+msgstr "EDK"
+
+#: common/MacroDef.h:268
+msgid "EDK2"
+msgstr "EDK2"
+
+#: common/MacroDef.h:269
+msgid "English"
+msgstr "英文"
+
+#: common/MacroDef.h:270
+msgid "Error"
+msgstr "錯誤"
+
+#: common/MacroDef.h:271
+msgid "ESRT"
+msgstr ""
+
+#: common/MacroDef.h:272
+msgid "Exceed boundary!"
+msgstr "超出界限!"
+
+#: common/MacroDef.h:273
+msgid "Export FFS File To..."
+msgstr "匯出FFS檔案至..."
+
+#: common/MacroDef.h:274
+msgid "Export FV List To..."
+msgstr "匯出FV清單至..."
+
+#: common/MacroDef.h:275
+msgid "Export Module List To..."
+msgstr "匯出模組清單至..."
+
+#: common/MacroDef.h:276
+msgid "Export Module To..."
+msgstr "匯出模組至..."
+
+#: common/MacroDef.h:277
+msgid "Export OpROM To..."
+msgstr "匯出OpROM至..."
+
+#: common/MacroDef.h:278
+msgid "Export OpROM List To..."
+msgstr "匯出OpROM清單至..."
+
+#: common/MacroDef.h:279
+msgid "Export path"
+msgstr "匯出路徑"
+
+#: common/MacroDef.h:280
+msgid "Export selected"
+msgstr "匯出所選定的"
+
+#: common/MacroDef.h:281
+msgid "Export Setup Menu To..."
+msgstr "匯出設定選單至..."
+
+#: common/MacroDef.h:282
+msgid "Export setup menu settings successfully"
+msgstr "匯出設定選單成功"
+
+#: common/MacroDef.h:283
+msgid "Export successfully"
+msgstr "匯出成功"
+
+#: common/MacroDef.h:284
+msgid "Export to..."
+msgstr "匯出至..."
+
+#: common/MacroDef.h:285
+msgid "Ext family"
+msgstr "延伸家族"
+
+#: common/MacroDef.h:286
+msgid "Ext model"
+msgstr "延伸模組"
+
+#: common/MacroDef.h:287
+msgid "Extract"
+msgstr "匯出"
+
+#: common/MacroDef.h:288
+msgid "Extract All"
+msgstr "匯出全部"
+
+#: common/MacroDef.h:289
+msgid "Extract the selected microcode."
+msgstr "匯出所選的微指令."
+
+#: common/MacroDef.h:290
+msgid "Extract whole microcode."
+msgstr "匯出整個微指令."
+
+#: common/MacroDef.h:291
+msgid "Factory Copy Merge"
+msgstr "Factory Copy Merge"
+
+#: common/MacroDef.h:292
+msgid "Fail to add microcode!"
+msgstr "新增微指令失敗!"
+
+#: common/MacroDef.h:293
+msgid "Fail to copy browser string!"
+msgstr "複製browser字串失敗!"
+
+#: common/MacroDef.h:294
+msgid "Fail to copy SCU string!"
+msgstr "複製SCU字串失敗!"
+
+#: common/MacroDef.h:295
+msgid "Fail to delete module!"
+msgstr "刪除模組失敗!"
+
+#: common/MacroDef.h:296
+msgid "Fail to display SCU string!"
+msgstr "顯示SCU字串失敗!"
+
+#: common/MacroDef.h:297
+msgid "Fail to export!"
+msgstr "匯出失敗!"
+
+#: common/MacroDef.h:298
+msgid "Fail to find module!"
+msgstr "尋找module失敗!"
+
+#: common/MacroDef.h:299
+msgid "Fail to get the other side tree index!"
+msgstr "取得另一側樹的索引值失敗!"
+
+#: common/MacroDef.h:300
+msgid "Fail to get picture size!"
+msgstr "取得圖片大小失敗!"
+
+#: common/MacroDef.h:301
+msgid "Fail to insert module!"
+msgstr "插入模組失敗!"
+
+#: common/MacroDef.h:302
+msgid "Fail to load 2nd BIOS image!"
+msgstr "載入第2個BIOS image失敗!"
+
+#: common/MacroDef.h:303
+msgid "Fail to open file!"
+msgstr "開啟檔案失敗!"
+
+#: common/MacroDef.h:304
+msgid "Fail to read file!"
+msgstr "讀取檔案失敗!"
+
+#: common/MacroDef.h:305
+msgid "Fail to read SCU string!"
+msgstr "讀取SCU字串失敗!"
+
+#: common/MacroDef.h:306
+msgid "Fail to replace FV!"
+msgstr "置換FV失敗!"
+
+#: common/MacroDef.h:307
+msgid "Fail to replace logo!"
+msgstr "置換圖示失敗!"
+
+#: common/MacroDef.h:308
+msgid "Fail to replace microcode!"
+msgstr "置換微指令失敗!"
+
+#: common/MacroDef.h:309
+msgid "Fail to replace module!"
+msgstr "置換模組失敗!"
+
+#: common/MacroDef.h:310
+msgid "Fail to save as!"
+msgstr "另存新檔失敗!"
+
+#: common/MacroDef.h:311
+msgid "Fail to set BIOS version!"
+msgstr "設定BIOS版本失敗!"
+
+#: common/MacroDef.h:312
+msgid "Fail to write browser string!"
+msgstr "寫入browser字串失敗!"
+
+#: common/MacroDef.h:313
+msgid "Fail to write SCU string!"
+msgstr "寫入SCU字串失敗!"
+
+#: common/MacroDef.h:314
+msgid "Failed!"
+msgstr "失敗!"
+
+#: common/MacroDef.h:315
+msgid "Family"
+msgstr "家族"
+
+#: common/MacroDef.h:316
+msgid "FFS Type"
+msgstr "FFS型態"
+
+#: common/MacroDef.h:317
+msgid "File"
+msgstr "檔案"
+
+#: common/MacroDef.h:318
+msgid "File doesn't exist!"
+msgstr "檔案不存在!"
+
+#: common/MacroDef.h:319
+msgid "File is read-only!"
+msgstr "檔案是唯讀的!"
+
+#: common/MacroDef.h:320
+msgid "Free space is not enough!"
+msgstr "剩餘空間不足!"
+
+#: common/MacroDef.h:321
+msgid "Function"
+msgstr "功能"
+
+#: common/MacroDef.h:322
+msgid "FV or Module buffer is incorrect!"
+msgstr "FV或模組的緩衝區不正確!"
+
+#: common/MacroDef.h:323 gui/H2oezeFrame.cpp:2290
+msgid "FV"
+msgstr "FV"
+
+#: common/MacroDef.h:324
+msgid "Replace FV"
+msgstr "置換FV"
+
+#: common/MacroDef.h:325
+msgid "Export FV List"
+msgstr "匯出FV清單"
+
+#: common/MacroDef.h:326
+msgid "Generate"
+msgstr "產生"
+
+#: common/MacroDef.h:328
+msgid "Generate Bin FFS"
+msgstr "產生Bin FFS"
+
+#: common/MacroDef.h:330
+msgid "Generate Logo FFS"
+msgstr "產生Logo FFS"
+
+#: common/MacroDef.h:331
+msgid "Generate logo FFS successfully"
+msgstr "產生圖示FFS成功"
+
+#: common/MacroDef.h:332
+msgid "GUID"
+msgstr "GUID"
+
+#: common/MacroDef.h:333
+msgid "GUID doesn't match!"
+msgstr "GUID不符合!"
+
+#: common/MacroDef.h:334
+msgid "Identical"
+msgstr "完全相同"
+
+#: common/MacroDef.h:335
+msgid "Image viewer"
+msgstr "圖檔檢視器"
+
+#: common/MacroDef.h:336
+msgid "Import from..."
+msgstr "匯入自..."
+
+#: common/MacroDef.h:337
+msgid "In signed area!"
+msgstr "在signed區域!"
+
+#: common/MacroDef.h:338
+msgid "Incompatible version!"
+msgstr "不相容的版本!"
+
+#: common/MacroDef.h:339
+msgid "Incorrect file format!"
+msgstr "不正確的檔案格式!"
+
+#: common/MacroDef.h:340
+msgid "Input file contains multiple microcodes!"
+msgstr "輸入檔案包含多組微指令!"
+
+#: common/MacroDef.h:341
+msgid "Insert module successfully"
+msgstr "插入模組成功"
+
+#: common/MacroDef.h:343
+msgid "db"
+msgstr ""
+
+#: common/MacroDef.h:344
+msgid "dbx"
+msgstr ""
+
+#: common/MacroDef.h:345
+msgid "KEK"
+msgstr ""
+
+#: common/MacroDef.h:346
+msgid "PK"
+msgstr ""
+
+#: common/MacroDef.h:347
+msgid "Insert db"
+msgstr "插入db"
+
+#: common/MacroDef.h:348
+msgid "Insert dbx"
+msgstr "插入dbx"
+
+#: common/MacroDef.h:349
+msgid "Insert KEK"
+msgstr "插入KEK"
+
+#: common/MacroDef.h:350
+msgid "Insert PK"
+msgstr "插入PK"
+
+#: common/MacroDef.h:351
+msgid "Insert Key"
+msgstr "插入Key"
+
+#: common/MacroDef.h:352
+msgid "Insert db Key"
+msgstr "插入db Key"
+
+#: common/MacroDef.h:353
+msgid "Insert dbx Key"
+msgstr "插入dbx Key"
+
+#: common/MacroDef.h:354
+msgid "Insert KEK Key"
+msgstr "插入KEK Key"
+
+#: common/MacroDef.h:355
+msgid "Insert PK Key"
+msgstr "插入PK Key"
+
+#: common/MacroDef.h:357
+msgid "Invalid ESRT Version!"
+msgstr "無效的ESRT版本!"
+
+#: common/MacroDef.h:358
+msgid "Invalid FV!"
+msgstr "不合法的FV!"
+
+#: common/MacroDef.h:359
+msgid "Invalid GUID format!"
+msgstr "無效的GUID格式!"
+
+#: common/MacroDef.h:360
+msgid "Invalid parameter!"
+msgstr "不合法的參數!"
+
+#: common/MacroDef.h:361
+msgid "Invalid path!"
+msgstr "無效的路徑!"
+
+#: common/MacroDef.h:362
+msgid "Invalid Section!"
+msgstr "無效的section!"
+
+#: common/MacroDef.h:363
+msgid "is in signed area!"
+msgstr "在signed區域!"
+
+#: common/MacroDef.h:364
+msgid "Item is not found!"
+msgstr "項目未發現!"
+
+#: common/MacroDef.h:365
+msgid "Items"
+msgstr "項目"
+
+#: common/MacroDef.h:366
+msgid "Load File From..."
+msgstr "載入檔案自..."
+
+#: common/MacroDef.h:367
+msgid "Load FV From..."
+msgstr "載入FV自..."
+
+#: common/MacroDef.h:368
+msgid "Load Image From..."
+msgstr "載入圖檔自..."
+
+#: common/MacroDef.h:369
+msgid "Load Module From..."
+msgstr "載入模組自..."
+
+#: common/MacroDef.h:370
+msgid "Load OpROM From..."
+msgstr "載入OpROM自..."
+
+#: common/MacroDef.h:371
+msgid "Load Path"
+msgstr "載入路徑"
+
+#: common/MacroDef.h:373
+msgid "Loading from..."
+msgstr "正在載入自..."
+
+#: common/MacroDef.h:374
+msgid "Log"
+msgstr "紀錄"
+
+#: common/MacroDef.h:375
+msgid "Logo"
+msgstr "圖示"
+
+#: common/MacroDef.h:376
+msgid "Microcode"
+msgstr "微指令"
+
+#: common/MacroDef.h:377
+msgid "Microcode already exists!"
+msgstr "微指令已存在!"
+
+#: common/MacroDef.h:378
+msgid "Microcode to load"
+msgstr "要載入的微指令"
+
+#: common/MacroDef.h:379
+msgid "Model"
+msgstr "模組"
+
+#: common/MacroDef.h:380 gui/H2oezeFrame.cpp:2269
+msgid "Module"
+msgstr "模組"
+
+#: common/MacroDef.h:381
+msgid "Module already exists!"
+msgstr "模組已存在!"
+
+#: common/MacroDef.h:382
+msgid "Delete Module"
+msgstr "刪除模組"
+
+#: common/MacroDef.h:383
+msgid "Export Module"
+msgstr "匯出模組"
+
+#: common/MacroDef.h:384
+msgid "Export Module List"
+msgstr "匯出模組清單"
+
+#: common/MacroDef.h:385
+msgid "Insert Module"
+msgstr "插入模組"
+
+#: common/MacroDef.h:386
+msgid "Module is not found!"
+msgstr "模組未找到!"
+
+#: common/MacroDef.h:387
+msgid "Replace Module"
+msgstr "置換模組"
+
+#: common/MacroDef.h:388
+msgid "Need check!"
+msgstr "需要重新檢查!"
+
+#: common/MacroDef.h:389
+msgid "New BIOS Version"
+msgstr "新BIOS版本"
+
+#: common/MacroDef.h:390
+msgid "New BIOS Version:"
+msgstr "新BIOS版本:"
+
+#: common/MacroDef.h:391
+msgid "New ESRT GUID"
+msgstr "新ESRT GUID"
+
+#: common/MacroDef.h:392
+msgid "New ESRT Version"
+msgstr "新ESRT版本"
+
+#: common/MacroDef.h:393
+msgid "New item"
+msgstr "新項目"
+
+#: common/MacroDef.h:394
+msgid "New Product Name"
+msgstr "新產品名稱"
+
+#: common/MacroDef.h:395
+msgid "New Release Date"
+msgstr "新釋出日期"
+
+#: common/MacroDef.h:396
+msgid "No BIOS image was loaded!"
+msgstr "BIOS image未載入!"
+
+#: common/MacroDef.h:397
+msgid "No FV in FD!"
+msgstr "FD檔內沒有FV!"
+
+#: common/MacroDef.h:398
+msgid "No logo in FD!"
+msgstr "FD檔內沒有圖示!"
+
+#: common/MacroDef.h:399
+msgid "No module in FD!"
+msgstr "FD檔內沒有module!"
+
+#: common/MacroDef.h:400
+msgid "No OpROM in FD!"
+msgstr "FD檔內沒有OpROM!"
+
+#: common/MacroDef.h:401
+msgid "No mapping!"
+msgstr "沒有相配!"
+
+#: common/MacroDef.h:402
+msgid "No media!"
+msgstr "No media!"
+
+#: common/MacroDef.h:403
+msgid "No privilege!"
+msgstr "沒有權限!"
+
+#: common/MacroDef.h:404
+msgid "Not found!"
+msgstr "找不到!"
+
+#: common/MacroDef.h:405
+msgid "Not ready!"
+msgstr "尚未準備好!"
+
+#: common/MacroDef.h:406
+msgid "Not started!"
+msgstr "尚未開始!"
+
+#: common/MacroDef.h:407
+msgid "Nothing changed!"
+msgstr "沒有改變!"
+
+#: common/MacroDef.h:408
+msgid "Null pointer!"
+msgstr "空指標!"
+
+#: common/MacroDef.h:409
+msgid "Ok"
+msgstr "確定"
+
+#: common/MacroDef.h:410
+msgid "Open"
+msgstr "開啟"
+
+#: common/MacroDef.h:411
+msgid "Operation failed!"
+msgstr "操作失敗!"
+
+#: common/MacroDef.h:412 gui/H2oezeFrame.cpp:2320
+msgid "OpROM"
+msgstr "OpROM"
+
+#: common/MacroDef.h:413
+msgid "Export OpROM"
+msgstr "匯出OpROM"
+
+#: common/MacroDef.h:414
+msgid "Export OpROM List"
+msgstr "匯出OpROM清單"
+
+#: common/MacroDef.h:415
+msgid "Replace OpROM"
+msgstr "置換OpROM"
+
+#: common/MacroDef.h:416
+msgid "Option"
+msgstr "選項"
+
+#: common/MacroDef.h:417
+msgid "Other"
+msgstr "其他"
+
+#: common/MacroDef.h:418
+msgid "Out of resources!"
+msgstr "資源耗盡!"
+
+#: common/MacroDef.h:419
+msgid "Patch"
+msgstr "套用"
+
+#: common/MacroDef.h:420
+msgid "Path"
+msgstr "路徑"
+
+#: common/MacroDef.h:421
+msgid "Path is empty!"
+msgstr "路徑為空!"
+
+#: common/MacroDef.h:422
+msgid "Picture format is not supported!"
+msgstr "圖片格式不支援!"
+
+#: common/MacroDef.h:423
+msgid "Please input the export path!!!"
+msgstr "請輸入匯出路徑!"
+
+#: common/MacroDef.h:424
+msgid "Please input the file name!"
+msgstr "請輸入檔案名稱!"
+
+#: common/MacroDef.h:425
+msgid "Please input the GUID to modify!"
+msgstr "請輸入要修改的GUID!"
+
+#: common/MacroDef.h:426
+msgid "Please select a microcode to export!"
+msgstr "請選擇要匯出的微指令!"
+
+#: common/MacroDef.h:427
+msgid "Please select a microcode to replace!"
+msgstr "請選擇要置換的微指令!"
+
+#: common/MacroDef.h:428
+msgid "Processor flags"
+msgstr "處理器旗幟"
+
+#: common/MacroDef.h:429
+msgid "Read failed!"
+msgstr "讀取失敗!"
+
+#: common/MacroDef.h:431
+msgid "Release Date"
+msgstr "釋出日期"
+
+#: common/MacroDef.h:433
+msgid "Replace"
+msgstr "置換"
+
+#: common/MacroDef.h:434
+msgid "Replace All"
+msgstr "置換全部"
+
+#: common/MacroDef.h:435
+msgid "Replace FV successfully"
+msgstr "置換FV成功"
+
+#: common/MacroDef.h:436
+msgid "Replace logo successfully"
+msgstr "置換logo成功"
+
+#: common/MacroDef.h:437
+msgid "Replace module successfully"
+msgstr "置換模組成功"
+
+#: common/MacroDef.h:438
+msgid "Replace selected"
+msgstr "置換所選"
+
+#: common/MacroDef.h:439
+msgid "Replace the selected microcode."
+msgstr "置換所選的微指令."
+
+#: common/MacroDef.h:440
+msgid "Replace whole microcode."
+msgstr "置換整個微指令."
+
+#: common/MacroDef.h:442
+msgid "Replace db"
+msgstr "置換db"
+
+#: common/MacroDef.h:443
+msgid "Replace dbx"
+msgstr "置換dbx"
+
+#: common/MacroDef.h:444
+msgid "Replace KEK"
+msgstr "置換KEK"
+
+#: common/MacroDef.h:445
+msgid "Replace PK"
+msgstr "置換PK"
+
+#: common/MacroDef.h:446
+msgid "Replace All Key"
+msgstr "置換全部的Key"
+
+#: common/MacroDef.h:447
+msgid "Replace All db Key"
+msgstr "置換全部的db Key"
+
+#: common/MacroDef.h:448
+msgid "Replace All dbx Key"
+msgstr "置換全部的dbx Key"
+
+#: common/MacroDef.h:449
+msgid "Replace All KEK Key"
+msgstr "置換全部的KEK Key"
+
+#: common/MacroDef.h:450
+msgid "Replace All PK Key"
+msgstr "置換全部的PK Key"
+
+#: common/MacroDef.h:452
+msgid "Same"
+msgstr "相同"
+
+#: common/MacroDef.h:453
+msgid "Save as"
+msgstr "另存新檔"
+
+#: common/MacroDef.h:454
+msgid "Save as to..."
+msgstr "另存新檔至..."
+
+#: common/MacroDef.h:455
+msgid "Save to..."
+msgstr "儲存至..."
+
+#: common/MacroDef.h:457 gui/H2oezeFrame.cpp:2443
+msgid "Secure Key"
+msgstr ""
+
+#: common/MacroDef.h:459
+msgid "Select a file"
+msgstr "選擇檔案"
+
+#: common/MacroDef.h:460
+msgid "Select FFS File GUID"
+msgstr "選擇FFS檔案GUID"
+
+#: common/MacroDef.h:461
+msgid "Select FV To Insert"
+msgstr "選擇要插入的FV"
+
+#: common/MacroDef.h:462
+msgid "Select FV To Replace"
+msgstr "選擇要置換的FV"
+
+#: common/MacroDef.h:463
+msgid "Select Item To Delete"
+msgstr "選擇要刪除的項目"
+
+#: common/MacroDef.h:464
+msgid "Select Item To Export"
+msgstr "選擇要匯出的項目"
+
+#: common/MacroDef.h:465
+msgid "Select Item To Replace"
+msgstr "選擇要置換的項目"
+
+#: common/MacroDef.h:466
+msgid "Select Module To Delete"
+msgstr "選擇要刪除的模組"
+
+#: common/MacroDef.h:467
+msgid "Select Module To Export"
+msgstr "選擇要匯出的模組"
+
+#: common/MacroDef.h:468
+msgid "Select Module To Replace"
+msgstr "選擇要置換的模組"
+
+#: common/MacroDef.h:469
+msgid "Select OpROM To Export"
+msgstr "選擇要匯出的OpROM"
+
+#: common/MacroDef.h:470
+msgid "Select OpROM To Replace"
+msgstr "選擇要置換的OpROM"
+
+#: common/MacroDef.h:471
+msgid "Set BIOS version successfully"
+msgstr "設定BIOS版本成功"
+
+#: common/MacroDef.h:472 gui/H2oezeFrame.cpp:2483
+msgid "Setup Menu"
+msgstr "設定選單"
+
+#: common/MacroDef.h:473
+msgid "Export Setup Menu Settings..."
+msgstr "匯出設定選單設定..."
+
+#: common/MacroDef.h:474
+msgid ""
+"This is a signed BIOS image.\n"
+"Please re-sign it once the signed BIOS region is modified then saved.\n"
+"Otherwise it may cause secure boot failure."
+msgstr ""
+"這是sign過的BIOS image。\n"
+"一但修改過請重sign並且儲存，\n"
+"否則可能會導致開機失敗。"
+
+#: common/MacroDef.h:477
+msgid ""
+"This will modify the signed BIOS region.\n"
+"Please re-sign BIOS image once it's modified then saved.\n"
+"Otherwise it may cause secure boot failure.\n"
+"Do you want to continue?"
+msgstr ""
+"這是sign過的BIOS image。\n"
+"一但修改過請重sign並且儲存，\n"
+"否則可能會導致開機失敗。\n"
+"你是否要繼續?"
+
+#: common/MacroDef.h:481 gui/LayMicrocode.cpp:662
+msgid "Size"
+msgstr "大小"
+
+#: common/MacroDef.h:482
+msgid "Stepping"
+msgstr "步進號"
+
+#: common/MacroDef.h:483
+msgid "Success"
+msgstr "成功"
+
+#: common/MacroDef.h:484
+msgid "Successful"
+msgstr "成功"
+
+#: common/MacroDef.h:485
+msgid "Syntax error!"
+msgstr "語法錯誤!"
+
+#: common/MacroDef.h:486
+msgid "System default"
+msgstr "系統預設"
+
+#: common/MacroDef.h:487
+msgid "Type"
+msgstr "型態"
+
+#: common/MacroDef.h:488
+msgid "Undefined case!"
+msgstr "未定義的情況!"
+
+#: common/MacroDef.h:489
+msgid "Unknow format!"
+msgstr "未知的格式!"
+
+#: common/MacroDef.h:490
+msgid "Unsupported!"
+msgstr "不支援!"
+
+#: common/MacroDef.h:491
+msgid "Unsupported format!"
+msgstr "不支援的格式!"
+
+#: common/MacroDef.h:492
+msgid "Update Default"
+msgstr "更新預設"
+
+#: common/MacroDef.h:493
+msgid "Update revision"
+msgstr "更新修訂"
+
+#: common/MacroDef.h:494
+msgid "Update String"
+msgstr "更新字串"
+
+#: common/MacroDef.h:495
+msgid "Value not in range!"
+msgstr "值不在範圍內!"
+
+#: common/MacroDef.h:496
+msgid "View"
+msgstr "檢視"
+
+#: common/MacroDef.h:497
+msgid "View Mode"
+msgstr "檢視模式"
+
+#: common/MacroDef.h:498
+msgid "Volume full!"
+msgstr "Volume已滿!"
+
+#: common/MacroDef.h:499
+msgid "Write failed!"
+msgstr "寫入失敗!"
+
+#: common/MacroDef.h:500
+msgid "Write protected!"
+msgstr "寫入保護!"
+
+#: common/MacroDef.h:501
+msgid "Zero GUID!"
+msgstr "GUID為零!"
+
+#: common/MacroDef.h:372
+msgid "Loader revision"
+msgstr "Loader revision"
+
+#: common/MacroDef.h:208
+msgid "BIOS binary offset"
+msgstr "BIOS binary offset"
+
+#: gui/ContentView.cpp:651
+msgid "FFS File GUID"
+msgstr "FFS檔案GUID"
+
+#: gui/H2oezeFrame.cpp:288
+msgid "Fail to read language setting !"
+msgstr "讀取語言設定失敗 !"
+
+#: gui/H2oezeFrame.cpp:312
+msgid "Couldn't find help document !"
+msgstr "無法找到線上說明文件 !"
+
+#: gui/H2oezeFrame.cpp:496
+msgid ""
+"This BIOS image is Read-Only!\n"
+"\n"
+"Do you want to continue?"
+msgstr ""
+"此BIOS image是唯讀的!\n"
+"\n"
+"請問是否要繼續?"
+
+#: gui/H2oezeFrame.cpp:530 gui/H2oezeFrame.cpp:789
+msgid ""
+"FD file has been changed.\n"
+"\n"
+"Do you want to save?"
+msgstr ""
+"FD檔有修改過\n"
+"\n"
+"請問是否要存檔?"
+
+#: gui/H2oezeFrame.cpp:543
+msgid "Closing ..."
+msgstr "關閉中..."
+
+#: gui/H2oezeFrame.cpp:606
+msgid "Do you want to save?"
+msgstr "請問是否要存檔?"
+
+#: gui/H2oezeFrame.cpp:1317
+msgid "Select language:"
+msgstr "選擇語言:"
+
+#: gui/H2oezeFrame.cpp:1317
+msgid "Language"
+msgstr "語言"
+
+#: gui/H2oezeFrame.cpp:1374
+msgid "About "
+msgstr "關於 "
+
+#: gui/H2oezeFrame.cpp:1408
+msgid "L&oad BIOS Image From...\tCtrl+O"
+msgstr "載入BIOS Image自"
+
+#: gui/H2oezeFrame.cpp:1413
+msgid "&Close BIOS Image"
+msgstr "關閉BIOS Image"
+
+#: gui/H2oezeFrame.cpp:1457
+msgid "&Log"
+msgstr "紀錄操作流程"
+
+#: gui/H2oezeFrame.cpp:1464
+msgid "&Save\tCtrl+S"
+msgstr "存檔"
+
+#: gui/H2oezeFrame.cpp:1469
+msgid "Save &As..."
+msgstr "另存新檔..."
+
+#: gui/H2oezeFrame.cpp:1478
+msgid "E&xit"
+msgstr "離開"
+
+#: gui/H2oezeFrame.cpp:1483
+msgid "&File"
+msgstr "檔案"
+
+#: gui/H2oezeFrame.cpp:1494
+msgid "&Language"
+msgstr "語言"
+
+#: gui/H2oezeFrame.cpp:1499
+msgid "H2OEZE &Help..."
+msgstr "說明..."
+
+#: gui/H2oezeFrame.cpp:1504
+msgid "&About..."
+msgstr "關於..."
+
+#: gui/H2oezeFrame.cpp:1509
+msgid "&Help"
+msgstr "說明"
+
+#: gui/H2oezeFrame.cpp:1995
+msgid "No enough space writing this string package!"
+msgstr "沒有足夠空間寫入這個string package!"
+
+#: gui/H2oezeFrame.cpp:2011
+msgid "No enough space writing browser string package!"
+msgstr "沒有足夠空間寫入browser string package!"
+
+#: gui/H2oezeFrame.cpp:2113
+msgid "unknown"
+msgstr "未知的"
+
+#: gui/H2oezeFrame.cpp:2119
+msgid "selected language is wrong"
+msgstr "所選的語言是錯誤的"
+
+#: gui/H2oezeFrame.cpp:2126
+msgid ""
+"The selected language is not supported by your system.\n"
+"Try installing support for this language."
+msgstr ""
+"你的系統不支援所選的語言。\n"
+"試著安裝該語言的支援。"
+
+#: gui/H2oezeFrame.cpp:2184
+msgid "Compa&re With 2nd BIOS Image"
+msgstr "與第2個BIOS Image比較"
+
+#: gui/H2oezeFrame.cpp:2225
+msgid "BIOS Image &Information..."
+msgstr "BIOS Image資訊..."
+
+#: gui/H2oezeFrame.cpp:2237
+msgid "&Logo"
+msgstr "圖示"
+
+#: gui/H2oezeFrame.cpp:2244
+msgid "&Replace Module"
+msgstr "置換模組"
+
+#: gui/H2oezeFrame.cpp:2249
+msgid "&Insert Module"
+msgstr "插入模組"
+
+#: gui/H2oezeFrame.cpp:2254
+msgid "&Delete Module"
+msgstr "刪除模組"
+
+#: gui/H2oezeFrame.cpp:2259
+msgid "&Export Module"
+msgstr "匯出模組"
+
+#: gui/H2oezeFrame.cpp:2264
+msgid "Export Module &List"
+msgstr "匯出模組清單"
+
+#: gui/H2oezeFrame.cpp:2280
+msgid "Replace &FV"
+msgstr "置換FV"
+
+#: gui/H2oezeFrame.cpp:2285
+msgid "Export FV &List"
+msgstr "匯出FV清單"
+
+#: gui/H2oezeFrame.cpp:2305
+msgid "&Replace OpROM"
+msgstr "置換OpROM"
+
+#: gui/H2oezeFrame.cpp:2310
+msgid "&Export OpROM"
+msgstr "匯出OpROM"
+
+#: gui/H2oezeFrame.cpp:2315
+msgid "Export OpROM &List"
+msgstr "匯出OpROM清單"
+
+#: gui/H2oezeFrame.cpp:2327
+msgid "BIOS &Version"
+msgstr "BIOS版本"
+
+#: gui/H2oezeFrame.cpp:2333
+msgid "&ESRT"
+msgstr ""
+
+#: gui/H2oezeFrame.cpp:2338
+msgid "&Release Date"
+msgstr "釋出日期"
+
+#: gui/H2oezeFrame.cpp:2459
+msgid "&Microcode"
+msgstr "微指令"
+
+#: gui/H2oezeFrame.cpp:2467
+msgid "Update &Default"
+msgstr "更新預設"
+
+#: gui/H2oezeFrame.cpp:2472
+msgid "Update &String"
+msgstr "更新字串"
+
+#: gui/H2oezeFrame.cpp:2477
+msgid "&Export Setup Menu Settings..."
+msgstr "匯出BIOS選單及設定..."
+
+#: gui/H2oezeFrame.cpp:2490
+msgid "&Factory Copy Merge"
+msgstr "Factory Copy Merge"
+
+#: gui/H2oezeFrame.cpp:2496
+msgid "&Factory Data Export"
+msgstr "工廠資料匯出"
+
+#: gui/H2oezeFrame.cpp:2502
+msgid "&Generate Logo FFS"
+msgstr "產生Logo FFS"
+
+#: gui/H2oezeFrame.cpp:2508
+msgid "&Generate Bin FFS"
+msgstr "產生Bin FFS"
+
+#: gui/H2oezeFrame.cpp:2514
+msgid "&BIOS Image"
+msgstr "&BIOS Image"
+
+#: gui/H2oezeFrame.cpp:2519
+msgid "&Components"
+msgstr "元件"
+
+#: gui/H2oezeFrame.cpp:2524
+msgid "Binary-&Rom"
+msgstr "Binary-&Rom"
+
+#: gui/H2oezeFrame.cpp:2529
+msgid "&Other"
+msgstr "其他"
+
+#: gui/H2oezeFrame.cpp:2547
+msgid "Can't create the thread!"
+msgstr "無法建立線程!"
+
+#: gui/H2oezeFrame.cpp:2813
+msgid "Undefined case"
+msgstr "未定義事件"
+
+#: gui/H2oezeFrame.cpp:2835
+msgid "Can't delete the thread!"
+msgstr "無法刪除線程!"
+
+#: gui/H2oezeFrame.cpp:3730 gui/H2oezeFrame.cpp:3810
+msgid "[BIOS Image]"
+msgstr "[BIOS Image]"
+
+#: gui/H2oezeFrame.cpp:3734 gui/H2oezeFrame.cpp:3814
+msgid "[Log]"
+msgstr "[Log]"
+
+#: gui/H2oezeFrame.cpp:4015
+msgid "FD   Size:         "
+msgstr "FD   Size:         "
+
+#: gui/H2oezeFrame.cpp:4037
+msgid "Size:         "
+msgstr "Size:         "
+
+#: gui/H2oezeFrame.cpp:4049
+msgid "Freespace:    "
+msgstr "Freespace:    "
+
+#: gui/H2oezeFrame.cpp:4063
+msgid "Microcode Size:    "
+msgstr "Microcode Size:    "
+
+#: gui/H2oezeFrame.cpp:4074 gui/H2oezeFrame.cpp:4084
+msgid "Compiler Version:  "
+msgstr "Compiler Version:  "
+
+#: gui/H2oezeFrame.cpp:4076
+msgid "(Undefined)"
+msgstr "(未定)"
+
+#: gui/H2oezeFrame.cpp:4097
+msgid "Bios Image Version:  "
+msgstr "Bios Image Version:  "
+
+#: gui/H2oezeFrame.cpp:4146
+msgid "Thread is asked to exit !"
+msgstr "線程要求離開 !"
+
+#: gui/LayGenBinFFS.cpp:347
+msgid "Please input GUID!!!"
+msgstr "請輸入GUID以便修改!!!"
+
+#: gui/LayGenBinFFS.cpp:386
+msgid "Export path is empty!!!"
+msgstr "路徑為空!!!"
+
+#: gui/LayHelpAbout.cpp:89
+msgid "Insyde "
+msgstr "系微 "
+
+#: gui/LayHelpAbout.cpp:92
+msgid "Copyright(C) 2012-2017, Insyde Software Corp. All Rights Reserved"
+msgstr ""
+
+#: gui/LayLogoReplace.cpp:534
+msgid "Input picture format is "
+msgstr "輸入的圖檔格式為 "
+
+#: gui/LayLogoReplace.cpp:536
+msgid ",FD picture format is "
+msgstr "，FD內的圖檔格式為 "
+
+#: gui/LayLogoReplace.cpp:538
+msgid ", do you want to convert input picture format to FD picture format?"
+msgstr "，是否要轉換成FD內的圖檔格式?"
+
+#: gui/LayLogoReplace.cpp:542
+msgid "Input      format:"
+msgstr "輸入的圖檔格式為:"
+
+#: gui/LayLogoReplace.cpp:544
+msgid "\n"
+msgstr ""
+
+#: gui/LayLogoReplace.cpp:545
+msgid "Original format:"
+msgstr ""
+
+#: gui/LayLogoReplace.cpp:547
+msgid ""
+"\n"
+"\n"
+msgstr ""
+
+#: gui/LayLogoReplace.cpp:548
+msgid "Do you want to convert to original format?"
+msgstr "，是否要轉換成FD內的圖檔格式?"
+
+#: gui/LayLogoReplace.cpp:582
+msgid ""
+"Error!! BIOSDataInfo, ModuleDataInfo, NewModuleData or NewModuleSize is "
+"invalid !"
+msgstr ""
+"錯誤!! BIOSDataInfo, ModuleDataInfo, NewModuleData 或 NewModuleSize 是無效"
+"的 !"
+
+#: gui/LayMicrocode.cpp:638
+msgid "Loader Revision"
+msgstr "載入器版本"
+
+#: gui/LayMicrocode.cpp:646
+msgid "Processor Flags"
+msgstr "處理器標幟"
+
+#: gui/LayMicrocode.cpp:654
+msgid "BIOS Binary Offset"
+msgstr "BIOS二進制位移值"
+
+#: gui/LayMicrocode.cpp:673
+msgid "Data 0x32 Bytes (Microcode header)"
+msgstr "資料 0x32 位元組(微碼標頭)"
+
+#: gui/LayModuleReplace.cpp:1798
+msgid "The input file is a compressed module, do you want to continue?"
+msgstr "此輸入檔為壓縮過的module，請問是否要繼續?"
+
+#: gui/LayModuleReplace.cpp:2273
+msgid "Please input new BIOS version or product name!"
+msgstr "請輸入新的BIOS版本或產品名稱!"
+
+#: gui/LayModuleReplace.cpp:2375 gui/LayModuleReplace.cpp:2461
+msgid "Please input new ESRT version, GUID or Release Date!"
+msgstr "請輸入新的ESRT版本，GUID或"
+
+#: gui/LayModuleReplace.cpp:2423
+msgid "Invalid Release Date!"
+msgstr "不合法的釋出日期!"
+
+#: gui/LayModuleReplace.cpp:2652
+msgid ""
+"You haven't applied the change yet.\n"
+"\n"
+"Do you really want to exit?"
+msgstr ""
+"你尚未套用這個修改\n"
+"請問是否真的要離開 ?"
+
+#: gui/LayUpdateStr.cpp:81
+msgid "Package"
+msgstr "Package"
+
+#: gui/LayUpdateStr.cpp:83
+msgid "Lang"
+msgstr "Lang"
+
+#: gui/LayUpdateStr.cpp:86
+msgid "Remained Chars: "
+msgstr "剩餘字數: "
+
+#: gui/LayUpdateStr.cpp:141
+#, c-format
+msgid "%lld (%u)"
+msgstr "%lld (%u)"
+
+#: gui/LayUpdateStr.cpp:144
+#, c-format
+msgid "%llx (%u)"
+msgstr "%llx (%u)"
+
+#: gui/LayUpdateStr.cpp:169 gui/LayUpdateStr.cpp:424
+msgid "Prompt"
+msgstr "Prompt"
+
+#: gui/LayUpdateStr.cpp:170
+msgid "Help"
+msgstr "Help"
+
+#: gui/LayUpdateStr.cpp:171 gui/LayUpdateStr.cpp:425
+msgid "ID"
+msgstr "ID"
+
+#: gui/LayUpdateStr.cpp:644
+msgid "Setup Utility"
+msgstr "Setup Utility"
+
+#: gui/LayUpdateStr.cpp:654
+msgid "Setup Browser"
+msgstr "Setup Browser"
+
+#: gui/wxWidgetComFunc.cpp:244
+msgid ""
+"This file already exists.\n"
+"Do you want to replace it?"
+msgstr ""
+"該檔案已存在。\n"
+"請問是否要取代它呢?"
+
+#~ msgid ""
+#~ "This is a signed BIOS image.\n"
+#~ "\n"
+#~ "Please re-sign it once it's modified and saved,\n"
+#~ "otherwise it may cause boot failure."
+#~ msgstr ""
+#~ "這是sign過的BIOS image。\n"
+#~ "\n"
+#~ "一旦修改過請重sign並且儲存，\n"
+#~ "否則可能會導致開機失敗。"
+
+#~ msgid "FD   size:         "
+#~ msgstr "FD   size:         "
+
+#~ msgid "size:         "
+#~ msgstr "size:         "
+
+#~ msgid "freespace:    "
+#~ msgstr "freespace:    "
+
+#~ msgid "Microcode size:    "
+#~ msgstr "Microcode size:    "
+
+#~ msgid "Compiler version:  "
+#~ msgstr "Compiler version:  "
+
+#~ msgid "Bios image version:  "
+#~ msgstr "Bios image version:  "
+
+#~ msgid "L&oad BIOS image from...\tCtrl+O"
+#~ msgstr "載入BIOS image自..."
+
+#~ msgid "&Close BIOS image"
+#~ msgstr "關閉BIOS image"
+
+#~ msgid "Save &as..."
+#~ msgstr "另存新檔"
+
+#~ msgid "Compa&re with 2nd BIOS image"
+#~ msgstr "與第2個BIOS image比較"
+
+#~ msgid "1st BIOS image simple information"
+#~ msgstr "第1個BIOS image簡易資訊"
+
+#~ msgid "1st BIOS image detailed information"
+#~ msgstr "第1個BIOS image詳細資訊"
+
+#~ msgid "2nd BIOS image simple information"
+#~ msgstr "第2個BIOS image簡易資訊"
+
+#~ msgid "2nd BIOS image detailed information"
+#~ msgstr "第2個BIOS image詳細資訊"
+
+#~ msgid "BIOS image simple information"
+#~ msgstr "BIOS image簡易資訊"
+
+#~ msgid "BIOS image detailed information"
+#~ msgstr "BIOS image詳細資訊"
+
+#~ msgid "BIOS image &information..."
+#~ msgstr "BIOS image資訊"
+
+#~ msgid "&Replace module"
+#~ msgstr "置換模組"
+
+#~ msgid "&Insert module"
+#~ msgstr "插入模組"
+
+#~ msgid "&Delete module"
+#~ msgstr "刪除模組"
+
+#~ msgid "&Export module"
+#~ msgstr "匯出模組"
+
+#~ msgid "Export module &list"
+#~ msgstr "匯出模組清單"
+
+#~ msgid "Export FV &list"
+#~ msgstr "匯出FV清單"
+
+#~ msgid "Export OpROM &list"
+#~ msgstr "匯出OpROM清單"
+
+#~ msgid "BIOS &version"
+#~ msgstr "BIOS版本"
+
+#~ msgid "Update &default"
+#~ msgstr "更新預設"
+
+#~ msgid "Update &string"
+#~ msgstr "更新字串"
+
+#~ msgid "&Export setup menu settings..."
+#~ msgstr "匯出設定選單"
+
+#~ msgid "Setup menu"
+#~ msgstr "設定選單"
+
+#~ msgid "&Factory copy merge"
+#~ msgstr "&Factory copy merge"
+
+#~ msgid "&Factory data export"
+#~ msgstr "&Factory data export"
+
+#~ msgid "&Generate logo FFS"
+#~ msgstr "產生圖示FFS"
+
+#~ msgid "&BIOS image"
+#~ msgstr "&BIOS image"
+
+#~ msgid "Append the input microcode at the end"
+#~ msgstr "將輸入的微指令附加到最後"
+
+#~ msgid "BIOS image information"
+#~ msgstr "BIOS image資訊"
+
+#~ msgid "Choose 2nd BIOS image from..."
+#~ msgstr "選擇第2個BIOS image自..."
+
+#~ msgid "Compare with 2nd BIOS image"
+#~ msgstr "與第2個BIOS image比較"
+
+#~ msgid "Delete the selected microcode"
+#~ msgstr "刪除所選的微指令"
+
+#~ msgid "Export FFS file to..."
+#~ msgstr "匯出FFS檔案至..."
+
+#~ msgid "Export FV list to..."
+#~ msgstr "匯出FV清單至..."
+
+#~ msgid "Export module list to..."
+#~ msgstr "匯出模組清單至..."
+
+#~ msgid "Export module to..."
+#~ msgstr "匯出模組至..."
+
+#~ msgid "Export OpROM to..."
+#~ msgstr "匯出OpROM至..."
+
+#~ msgid "Export OpROM list to..."
+#~ msgstr "匯出OpROM清單至..."
+
+#~ msgid "Export setup menu to..."
+#~ msgstr "匯出設定選單至..."
+
+#~ msgid "Extract the selected microcode"
+#~ msgstr "匯出所選的微指令"
+
+#~ msgid "Extract whole microcode"
+#~ msgstr "匯出整個微指令"
+
+#~ msgid "Factory copy merge"
+#~ msgstr "Factory copy merge"
+
+#~ msgid "Export FV list"
+#~ msgstr "匯出FV清單"
+
+#~ msgid "Generate logo FFS"
+#~ msgstr "產生圖示FFS"
+
+#~ msgid "Load file from..."
+#~ msgstr "載入檔案自..."
+
+#~ msgid "Load FV from..."
+#~ msgstr "載入FV自..."
+
+#~ msgid "Load image from..."
+#~ msgstr "載入圖檔自..."
+
+#~ msgid "Load module from..."
+#~ msgstr "載入模組自..."
+
+#~ msgid "Load OpROM from..."
+#~ msgstr "載入OpROM自..."
+
+#~ msgid "Load path"
+#~ msgstr "載入路徑"
+
+#~ msgid "Delete module"
+#~ msgstr "刪除模組"
+
+#~ msgid "Export module"
+#~ msgstr "匯出模組"
+
+#~ msgid "Export module list"
+#~ msgstr "匯出模組清單"
+
+#~ msgid "Insert module"
+#~ msgstr "插入模組"
+
+#~ msgid "Replace module"
+#~ msgstr "置換模組"
+
+#~ msgid "Export OpROM list"
+#~ msgstr "匯出OpROM清單"
+
+#~ msgid "Replace all"
+#~ msgstr "置換全部"
+
+#~ msgid "Replace the selected microcode"
+#~ msgstr "置換所選的微指令"
+
+#~ msgid "Replace whole microcode"
+#~ msgstr "置換整個微指令"
+
+#~ msgid "Select FFS file GUID"
+#~ msgstr "選擇FFS檔案GUID"
+
+#~ msgid "Select FV to insert"
+#~ msgstr "選擇要插入的FV"
+
+#~ msgid "Select FV to replace"
+#~ msgstr "選擇要置換的FV"
+
+#~ msgid "Select item to delete"
+#~ msgstr "選擇要刪除的項目"
+
+#~ msgid "Select item to export"
+#~ msgstr "選擇要匯出的項目"
+
+#~ msgid "Select item to replace"
+#~ msgstr "選擇要置換的項目"
+
+#~ msgid "Select module to delete"
+#~ msgstr "選擇要刪除的模組"
+
+#~ msgid "Select module to export"
+#~ msgstr "選擇要匯出的模組"
+
+#~ msgid "Select module to replace"
+#~ msgstr "選擇要置換的模組"
+
+#~ msgid "Select OpROM to export"
+#~ msgstr "選擇要匯出的OpROM"
+
+#~ msgid "Select OpROM to replace"
+#~ msgstr "選擇要置換的OpROM"
+
+#~ msgid "Export setup menu settings..."
+#~ msgstr "匯出設定選單..."
+
+#~ msgid "Update default"
+#~ msgstr "更新預設"
+
+#~ msgid "Update string"
+#~ msgstr "更新字串"
+
+#~ msgid "View mode"
+#~ msgstr "檢視模式"
+
+#~ msgid ""
+#~ "This BIOS image is Read-Only!\n"
+#~ "Do you want to continue?"
+#~ msgstr ""
+#~ "此BIOS image是唯讀的!\n"
+#~ "\n"
+#~ "是否要繼續?"
+
+#~ msgid "Please input new BIOS version and product name!"
+#~ msgstr "請輸入新BIOS版本及產品名稱!"
+
+#~ msgid "BIOS version"
+#~ msgstr "BIOS版本"
+
+#~ msgid "New BIOS version: "
+#~ msgstr "新BIOS版本:"
+
+#~ msgid "BIOS image"
+#~ msgstr "BIOS image"
+
+#~ msgid "Current BIOS version"
+#~ msgstr "目前BIOS版本"
+
+#~ msgid "Current internal logo"
+#~ msgstr "目前內部圖示"
+
+#~ msgid "Current microcode detail"
+#~ msgstr "目前微指令細節"
+
+#~ msgid "Current product name"
+#~ msgstr "目前產品名稱"
+
+#~ msgid "New BIOS version"
+#~ msgstr "新BIOS版本"
+
+#~ msgid "New product name"
+#~ msgstr "新產品名稱"
+
+#~ msgid "Couldn't find/load the h2oeze catalog for locale '%s'."
+#~ msgstr "Couldn't find/load the h2oeze catalog for locale '%s'."
+
+#~ msgid "Descriptor map\t\t\t\tsize:              "
+#~ msgstr "Descriptor map\t\t\t\tsize:              "
+
+#~ msgid "Component section\t\t\t       size:              "
+#~ msgstr "Component section\t\t\t       size:              "
+
+#~ msgid "Region section\t\t\t\tsize:              "
+#~ msgstr "Region section\t\t\t\tsize:              "
+
+#~ msgid "Master section\t\t\t\tsize:              "
+#~ msgstr "Master section\t\t\t\tsize:              "
+
+#~ msgid "PCH soft strap section\t\t\tsize:              "
+#~ msgstr "PCH soft strap section\t\t\tsize:              "
+
+#~ msgid "Descriptor of upper map section\t\tsize:              "
+#~ msgstr "Descriptor of upper map section\t\tsize:              "
+
+#~ msgid "ME VSCC table of upper map section\tsize:              "
+#~ msgstr "ME VSCC table of upper map section\tsize:              "
+
+#~ msgid "ME region\t\t\t             size:              "
+#~ msgstr "ME region\t\t\t             size:              "
+
+#~ msgid "GbE regionn\t\t\t             size:              "
+#~ msgstr "GbE regionn\t\t\t             size:              "
+
+#~ msgid "Pd regionn\t\t\t\tsize:              "
+#~ msgstr "Pd regionn\t\t\t\tsize:              "
+
+#~ msgid "De regionn\t\t\t\tsize:              "
+#~ msgstr "De regionn\t\t\t\tsize:              "
+
+#~ msgid "Sb regionn\t\t\t\tsize              "
+#~ msgstr "Sb regionn\t\t\t\tsize              "
+
+#~ msgid "Cannot modify VSS Fv!"
+#~ msgstr "不能修改VSS FV!"
+
+#~ msgid ""
+#~ "This BIOS image is signed.\n"
+#~ "Please re-sign it if it's modified and saved,\n"
+#~ "or it may cause boot failure."
+#~ msgstr ""
+#~ "這個 BIOS image 是 sign 過的。\n"
+#~ "如果有做過任何修改且存檔了，請重新 sign 過，\n"
+#~ "否則會導致開機失敗。"
+
+#~ msgid "Failed to open file"
+#~ msgstr "無法開啟檔案"
+
+#~ msgid ""
+#~ "The file already exists.\n"
+#~ "Do you want to replace it?"
+#~ msgstr "檔案已存在。是否要取代它?"
+
+#~ msgid "Duplicated GUID!"
+#~ msgstr "重複的GUID!"
+
+#~ msgid "Load outside file from..."
+#~ msgstr "載入外部檔案自..."
+
+#~ msgid "Load outside FV from..."
+#~ msgstr "載入外部FV自..."
+
+#~ msgid "Load outside image from..."
+#~ msgstr "載入外部圖檔自..."
+
+#~ msgid "Load outside module from..."
+#~ msgstr "載入外部模組自..."
+
+#~ msgid "Load outside OpROM from..."
+#~ msgstr "載入外部OpROM自..."
+
+#~ msgid "Extract all"
+#~ msgstr "匯出全部"
+
+#~ msgid "Load logo image from..."
+#~ msgstr "載入圖示圖檔自..."
+
+#~ msgid "Export setup menu settings successfully!"
+#~ msgstr "匯出設定選單"
+
+#~ msgid "Micro Code"
+#~ msgstr "微指令"
+
+#~ msgid "Update Revision"
+#~ msgstr "更新至版本"
+
+#~ msgid "Ext Model"
+#~ msgstr "延伸模組"
+
+#~ msgid "Ext Family"
+#~ msgstr "延伸家族"
+
+#~ msgid "Please select a microcode to export first !"
+#~ msgstr "請先選擇一個微碼匯出 !"
+
+#~ msgid "Please select a microcode to replace first !"
+#~ msgstr "請先選擇一個微碼置換 !"
+
+#~ msgid "Fail to replace microcode !"
+#~ msgstr "置換微碼失敗 !"
+
+#~ msgid "The input file contains multiple microcodes !"
+#~ msgstr "輸入的檔案包含多組微碼 !"
+
+#~ msgid "Export setup-menu settings successfully !"
+#~ msgstr "匯出選單設定成功"
+
+#~ msgid "Fail to replace FV !"
+#~ msgstr "置換 FV 失敗 !"
+
+#~ msgid "Failed"
+#~ msgstr "失敗"
+
+#~ msgid "Fail to insert module !"
+#~ msgstr "插入模組失敗 !"
+
+#~ msgid "Fail to replace module !"
+#~ msgstr "置換模組失敗 !"
+
+#~ msgid "Fail to delete module !"
+#~ msgstr "刪除模組失敗 !"
+
+#~ msgid "Null Pointer !"
+#~ msgstr "空指標 !"
+
+#~ msgid "Set bios version successfully"
+#~ msgstr "設定 BIOS 版號成功"
+
+#~ msgid "Fail to set bios version !"
+#~ msgstr "設定 BIOS 版號失敗 !"
+
+#~ msgid "Content is empty !"
+#~ msgstr "內容為空 !"
+
+#~ msgid "Factory copy merge successfully"
+#~ msgstr "Factory copy merge 成功"
+
+#~ msgid "Fail to Factory copy merge !"
+#~ msgstr "Factory copy merge 失敗 !"
+
+#~ msgid "Item is Not found !"
+#~ msgstr "項目未找到 !"
+
+#~ msgid "Fail to replace OpROM !"
+#~ msgstr "置換OpROM失敗 !"
+
+#~ msgid "Replace OpROM successfully"
+#~ msgstr "置換OpROM成功"
+
+#~ msgid "Set string successfully"
+#~ msgstr "設定字串成功"
+
+#~ msgid "Fail to export !"
+#~ msgstr "匯出失敗 !"
+
+#~ msgid "Export successfully !"
+#~ msgstr "匯出成功 !"
+
+#~ msgid "Fail to export file !"
+#~ msgstr "匯出檔案失敗 !"
+
+#~ msgid "The module already exists !"
+#~ msgstr "該模組已存在 !"
+
+#~ msgid "Module is not found !"
+#~ msgstr "模組未找到 !"
+
+#~ msgid "Incorrect file format !"
+#~ msgstr "不正確的檔案格式 !"
+
+#~ msgid "already exists !"
+#~ msgstr "已存在 !"
+
+#~ msgid "Free space is not enough !"
+#~ msgstr "剩餘空間不足 !"
+
+#~ msgid "Fail to add microcode !"
+#~ msgstr "附加微指令失敗 !"
+
+#~ msgid "Unsupport format !"
+#~ msgstr "不支援的格式 !"
+
+#~ msgid "Fail to read file !"
+#~ msgstr "讀檔失敗 !"
+
+#~ msgid "Please input the file name !"
+#~ msgstr "請輸入檔案名稱 !"
+
+#~ msgid "Picture format is Not supported !"
+#~ msgstr "圖檔格式不支援 !"
+
+#~ msgid "Fail to get picture size !"
+#~ msgstr "無法取得圖片大小 !"
+
+#~ msgid "Fail to replace logo !"
+#~ msgstr "置換 logo 失敗 !"
+
+#~ msgid "Image Viewer"
+#~ msgstr "圖片檢視器"
+
+#~ msgid "Please input the GUID to modify !"
+#~ msgstr "請輸入 GUID 以便修改 !"
+
+#~ msgid "No logo in FD !"
+#~ msgstr "FD 檔內沒有 logo !"
+
+#~ msgid "Fail to get other side tree index !!!"
+#~ msgstr "無法取得另一側 tree index !!!"
+
+#~ msgid "Load Logo Image from..."
+#~ msgstr "載入 Logo 圖檔自..."
+
+#~ msgid "Select FFS File Guid"
+#~ msgstr "選擇 FFS 檔 GUID"
+
+#~ msgid "Fail to save as !"
+#~ msgstr "另存新檔失敗 !"
+
+#~ msgid "Generate Logo FFS successfully"
+#~ msgstr "產生 Logo FFS 成功"
+
+#~ msgid "The operation was failed !"
+#~ msgstr "操作失敗 !"
+
+#~ msgid "Path is empty !"
+#~ msgstr "路徑為空 !"
+
+#~ msgid "L&oad BIOS Image...\tCtrl+O"
+#~ msgstr "載入BIOS Image"
+
+#~ msgid "System Default"
+#~ msgstr "系統預設"
+
+#~ msgid "Save As to..."
+#~ msgstr "另存至..."
+
+#~ msgid "Fail to write SCU string !"
+#~ msgstr "寫入SCU字串失敗 !"
+
+#~ msgid "Fail to write Browser string !"
+#~ msgstr "寫入瀏覽器字串失敗 !"
+
+#~ msgid "File doesn't exist !"
+#~ msgstr "檔案不存在 !"
+
+#~ msgid "No image was loaded !"
+#~ msgstr "沒有檔案載入 !"
+
+#~ msgid "Failed !"
+#~ msgstr "失敗 !"
+
+#~ msgid "Fail to read SCU string !"
+#~ msgstr "讀取 SCU 字串失敗  !"
+
+#~ msgid "Fail to display SCU string !"
+#~ msgstr "顯示 SCU 字串失敗  !"
+
+#~ msgid "Fail to copy SCU string !"
+#~ msgstr "複製 SCU 字串失敗  !"
+
+#~ msgid "Fail to copy browser string !"
+#~ msgstr "複製瀏覽器字串失敗  !"
+
+#~ msgid "failed!"
+#~ msgstr "失敗 !"
+
+#~ msgid "Save as Failed !"
+#~ msgstr "另存新檔失敗 !"
+
+#~ msgid "Compa&re with Second BIOS Image"
+#~ msgstr "和第二個BIOS Image比較"
+
+#~ msgid "&Logo..."
+#~ msgstr "Logo..."
+
+#~ msgid "Module..."
+#~ msgstr "模組..."
+
+#~ msgid "&Micro Code..."
+#~ msgstr "微碼..."
+
+#~ msgid "Compare with Second BIOS Image"
+#~ msgstr "與第二個 BIOS Image 比對"
+
+#~ msgid "Choose Second BIOS Image from..."
+#~ msgstr "選擇第二個 BIOS Image 自..."
+
+#~ msgid "Loading from... "
+#~ msgstr "載入自... "
+
+#~ msgid "Select Module to Replace"
+#~ msgstr "選擇要置換的模組"
+
+#~ msgid "Select FV to Insert"
+#~ msgstr "選擇要插入的 FV"
+
+#~ msgid "Select Module to Delete"
+#~ msgstr "選擇要刪除的模組"
+
+#~ msgid "Export Module to..."
+#~ msgstr "匯出模組至..."
+
+#~ msgid "Select Module to Export"
+#~ msgstr "選擇要匯出的模組"
+
+#~ msgid "Export Module List to..."
+#~ msgstr "匯出模組清單至..."
+
+#~ msgid "Select FV to Replace"
+#~ msgstr "選擇要置換的 FV"
+
+#~ msgid "Export Fv List to..."
+#~ msgstr "匯出 FV 清單至..."
+
+#~ msgid "Select OpROM to Replace"
+#~ msgstr "選擇要置換的OpROM"
+
+#~ msgid "Select OpROM to Export"
+#~ msgstr "選擇要匯出的 OpROM"
+
+#~ msgid "Export OpROM List to..."
+#~ msgstr "匯出 OpROM 清單至..."
+
+#~ msgid "Microcode to Load"
+#~ msgstr "微碼載入"
+
+#~ msgid "Current Microcode detail"
+#~ msgstr "目前微碼詳細資料"
+
+#~ msgid "Export FFS File to"
+#~ msgstr "匯出 FFS 檔至"
+
+#~ msgid "Export Setup Menu to..."
+#~ msgstr "匯出設定選單至..."
+
+#~ msgid "Choose File from"
+#~ msgstr "選擇檔案自"
+
+#~ msgid "Choose from"
+#~ msgstr "選擇自"
+
+#~ msgid "Export Path"
+#~ msgstr "匯出路徑"
+
+#~ msgid "Export Select"
+#~ msgstr "匯出選擇"
+
+#~ msgid "Import from"
+#~ msgstr "匯入自"
+
+#~ msgid "Micro Code already exists !"
+#~ msgstr "微碼已存在!"
+
+#~ msgid "New Bios Version: "
+#~ msgstr "新BIOS版號:"
+
+#~ msgid "New Item"
+#~ msgstr "新項目"
+
+#~ msgid "Replace Select"
+#~ msgstr "取代選擇"
+
+#~ msgid "Select Delete Item"
+#~ msgstr "選擇刪除的項目"
+
+#~ msgid "Select Export Item"
+#~ msgstr "選擇匯出的項目"
+
+#~ msgid "Select Replace Item"
+#~ msgstr "選擇取代的項目"
+
+#~ msgid "LANGUAGE"
+#~ msgstr "語言"
+
+#~ msgid "SELECT_LAN"
+#~ msgstr "選擇語言"
+
+#~ msgid "Current Logo Image"
+#~ msgstr "目前的 Logo 圖檔"
+
+#~ msgid "Logo Image"
+#~ msgstr "Logo 圖檔"
+
+#~ msgid "Current Bios Version:    "
+#~ msgstr "目前 BIOS 版號:    "
+
+#~ msgid "New Bios Version:    "
+#~ msgstr "新 BIOS 版號:    "
+
+#~ msgid "Bios Version"
+#~ msgstr "BIOS 版號"
+
+#~ msgid "First BIOS Image Simple Information"
+#~ msgstr "第一個 BIOS Image 簡易資訊"
+
+#~ msgid "First BIOS Image Detailed Information"
+#~ msgstr "第一個 BIOS Image 詳細資訊"
+
+#~ msgid "Second BIOS Image Simple Information"
+#~ msgstr "第二個 BIOS Image 簡易資訊"
+
+#~ msgid "Second BIOS Image Detailed Information"
+#~ msgstr "第二個 BIOS Image 詳細資訊"
+
+#~ msgid "&Binary-Rom"
+#~ msgstr "Binary-Rom"
+
+#~ msgid "[Location]"
+#~ msgstr "[位置]"
+
+#~ msgid "Micro Code size:    "
+#~ msgstr "微碼大小:              "
+
+#~ msgid "Compiler Version:    "
+#~ msgstr "編譯器版本:    "
+
+#~ msgid "Compiler Version: "
+#~ msgstr "編譯器版本: "
+
+#~ msgid "BiosImageVersion:    "
+#~ msgstr "BIOS 版本:    "
+
+#~ msgid "<< Detailed Information >>"
+#~ msgstr "<< 詳細資訊 >>"
+
+#~ msgid "<< Simple Information >>"
+#~ msgstr "<< 簡易資訊 >>"
+
+#~ msgid "L&oad Image File...\tCtrl+O"
+#~ msgstr "載入 Image 檔案"
+
+#~ msgid "&Close Image File"
+#~ msgstr "關閉 Image 檔案"
+
+#~ msgid "First BIOS Image Simple Info"
+#~ msgstr "第一個 BIOS Image 簡易資訊"
+
+#~ msgid "First BIOS Image Detailed Info"
+#~ msgstr "第一個 BIOS Image 詳細資訊"
+
+#~ msgid "Second BIOS Image Simple Info"
+#~ msgstr "第二個 BIOS Image 簡易資訊"
+
+#~ msgid "Second BIOS Image Detailed Info"
+#~ msgstr "第二個 BIOS Image 詳細資訊"
+
+#~ msgid "First Image Simple Info"
+#~ msgstr "第一個 Image 簡易資訊"
+
+#~ msgid "First Image Detailed Info"
+#~ msgstr "第一個 Image 詳細資訊"
+
+#~ msgid "Second Image Simple Info"
+#~ msgstr "第二個 Image 簡易資訊"
+
+#~ msgid "Second Image Detailed Info"
+#~ msgstr "第二個 Image 詳細資訊"
+
+#~ msgid "Image &Information..."
+#~ msgstr "Image 資訊..."
+
+#~ msgid "Compa&re with Second Image File"
+#~ msgstr "與第二個 Image 檔比對"
+
+#~ msgid "First BIOS Detailed Information"
+#~ msgstr "第一個 BIOS Image 詳細資訊"
+
+#~ msgid "First BIOS Simple Information"
+#~ msgstr "第一個 BIOS Image 簡易資訊"
+
+#~ msgid "Second BIOS Detailed Information"
+#~ msgstr "第二個 BIOS Image 詳細資訊"
+
+#~ msgid "Second BIOS Simple Information"
+#~ msgstr "第二個 BIOS Image 簡易資訊"
+
+#~ msgid "Please load FD file first !"
+#~ msgstr "請先載入 FD 檔 !"
+
+#~ msgid "FD     size:              "
+#~ msgstr "FD     大小:           "
+
+#~ msgid "size:              "
+#~ msgstr "大小:           "
+
+#~ msgid "&Load Image File...\tCtrl+L"
+#~ msgstr "載入 Image 檔案..."
+
+#~ msgid "&Open Image File...\tCtrl+O"
+#~ msgstr "開啟 Image 檔案"
+
+#~ msgid "Loading from ... "
+#~ msgstr "載入自..."
+
+#~ msgid "Compa&re with Another Image File"
+#~ msgstr "與另一個 Image 檔案比對"
+
+#~ msgid "O&pen Image File...\tCtrl+O"
+#~ msgstr "開啟 Image 檔案"
+
+#~ msgid "Image &Information"
+#~ msgstr "Image 資訊"
+
+#~ msgid "L&oad FD...\tCtrl+O"
+#~ msgstr "載入 FD 檔"
+
+#~ msgid "&Close FD"
+#~ msgstr "關閉 FD 檔"
+
+#~ msgid "FD &Information"
+#~ msgstr "FD 檔資訊"
+
+#~ msgid "Microcode already exists !"
+#~ msgstr "微碼已存在 !"
+
+#~ msgid "Microcode "
+#~ msgstr "微碼"
+
+#~ msgid ""
+#~ "Error!! BiosDataInfo, ModuleDataInfo, NewModuleData or NewModuleSize is "
+#~ "invalid !"
+#~ msgstr ""
+#~ "錯誤 !! BIOSDataInfo, ModuleDataInfo, NewModuleData 或 NewModuleSize 其"
+#~ "中有錯 !"
+
+#~ msgid "Bios &Version"
+#~ msgstr "BIOS 版號"
+
+#~ msgid "FD size: "
+#~ msgstr "FD 大小: "
+
+#~ msgid "size: "
+#~ msgstr "大小: "
+
+#~ msgid "freespace: "
+#~ msgstr "剩餘空間: "
+
+#~ msgid "Micro Code size: "
+#~ msgstr "微碼大小: "
+
+#~ msgid "BiosImageVersion: "
+#~ msgstr "Bios版本: "
+
+#~ msgid "L&oad File...\tCtrl+O"
+#~ msgstr "開啟檔案"
+
+#~ msgid "Insyde"
+#~ msgstr "系微"
+
+#~ msgid "Export file to..."
+#~ msgstr "匯出檔案至..."
+
+#~ msgid "Load Logo Image from"
+#~ msgstr "載入logo圖檔自..."
+
+#~ msgid "Current Bios Version:    %s"
+#~ msgstr "目前的Bios版號:    "
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "New Bios Version: "
+#~ msgstr "新BIOS版號:    "
+
+#~ msgid "OpROM Replace"
+#~ msgstr "OpROM置換"
+
+#~ msgid "OpROM Export"
+#~ msgstr "OpROM匯出"
+
+#~ msgid "Export to"
+#~ msgstr "匯出至"
+
+#~ msgid "Module Insert"
+#~ msgstr "模組插入"
+
+#~ msgid "Module Delete"
+#~ msgstr "模組刪除"
+
+#~ msgid "&Insert New Module"
+#~ msgstr "插入新模組"
+
+#~ msgid "&Delete Existing Module"
+#~ msgstr "刪除現存模組"
+
+#~ msgid "Module Export"
+#~ msgstr "模組匯出"
+
+#~ msgid "Module Replace"
+#~ msgstr "模組置換"
+
+#~ msgid "No Logo in FD !"
+#~ msgstr "FD檔內沒有logo !"
+
+#~ msgid "Fail to save as !\n"
+#~ msgstr "另存新檔失敗 !"
+
+#~ msgid "Fail to set bios version !\n"
+#~ msgstr "未定"
+
+#~ msgid "Fail to Factory copy merge !\n"
+#~ msgstr "未定"
+
+#~ msgid "Set bios version successfully !"
+#~ msgstr "設定BIOS版號成功"
+
+#~ msgid "ERROR"
+#~ msgstr "錯誤"
+
+#~ msgid "Factory copy merge successfully !"
+#~ msgstr "Factory copy merge 成功 !"
+
+#~ msgid "Thread is asked to exit"
+#~ msgstr "線程要求離開"
+
+#~ msgid "Save as Failed"
+#~ msgstr "另存新檔失敗"
+
+#~ msgid "Default case"
+#~ msgstr "預設事件"
+
+#~ msgid "GenBiosImgDftScuConfig() failed !"
+#~ msgstr "未定"
+
+#~ msgid "Bin Ec"
+#~ msgstr "未定"
+
+#~ msgid "Setup Editor"
+#~ msgstr "未定"
+
+#~ msgid "Courier 10 Pitch"
+#~ msgstr "未定"
+
+#~ msgid "Save to ... %s"
+#~ msgstr "未定"
+
+#~ msgid "Save As to ... %s"
+#~ msgstr "未定"
+
+#~ msgid "Set bios version successfully !\n"
+#~ msgstr "未定"
+
+#~ msgid "Factory copy merge successfully !\n"
+#~ msgstr "未定"
+
+#~ msgid "Save to ... %s\n"
+#~ msgstr "未定"
+
+#~ msgid "Save As to ... %s\n"
+#~ msgstr "未定"
