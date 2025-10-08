@@ -1,14 +1,7 @@
-Command is: -gv
-Initialize driver
-IHIS Table Not Found
-Search SMI command and function number
-Start command process...
-Export EFI Variables to TXT file
-Now parsing Variable Information.
-Init BIOS runtime variable object from IHISI.
-Release BIOS data information
-Release BIOS variable object.
-Complete parsing Variable Information!!!
-Saving Variable Information to file: BIOSsetting\BIOS_Parameters_20250629_010318.txt
+No arguments
 Command process done.
 Release driver
+Show help message
+Insyde H2OUVE (UEFI Variable Editor) Version 200.00.01.00
+Copyright (c) 2012 - 2018, Insyde Software Corp. All Rights Reserved.
+
